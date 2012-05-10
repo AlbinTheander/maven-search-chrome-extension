@@ -9,5 +9,5 @@
       "keyword": "mvn"
    },
    "permissions": [ "tabs"],
-   "version": "0.1.2"
+   "version": "0.1.3"
 }
