@@ -2,13 +2,12 @@
    "background_page": "background.html",
    "description": "Adds an 'mvn' omnibox command.",
    "icons": {
-      "128": "icons/128.png",
-      "16": "icons/16.png"
+      "128": "icons/icon_128.png"
    },
    "name": "Maven Central Search",
    "omnibox": {
       "keyword": "mvn"
    },
    "permissions": [ "tabs", "http://search.maven.org/*" ],
-   "version": "0.1.1"
+   "version": "0.1.2"
 }
