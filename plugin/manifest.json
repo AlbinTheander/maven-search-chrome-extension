@@ -8,6 +8,6 @@
    "omnibox": {
       "keyword": "mvn"
    },
-   "permissions": [ "tabs", "http://search.maven.org/*" ],
+   "permissions": [ "tabs"],
    "version": "0.1.2"
 }
