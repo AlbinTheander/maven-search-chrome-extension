@@ -1,6 +1,9 @@
 {
    "manifest_version": 2,
-   "background": "background.html",
+   "background": {
+      "persistent": false,
+      "scripts": ["background.js"]
+   },
    "description": "Adds an 'mvn' omnibox command.",
    "icons": {
       "128": "icons/icon_128.png"
